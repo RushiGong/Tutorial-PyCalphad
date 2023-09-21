@@ -6,6 +6,7 @@
   </metadata>
   <ChemicalElement id="BA" mass="137.327" reference_phase="BLANK" H298="0.0" S298="0.0"/>
   <ChemicalElement id="CA" mass="40.078" reference_phase="BLANK" H298="0.0" S298="0.0"/>
+  <ChemicalElement id="K" mass="39.0983" reference_phase="BLANK" H298="0.0" S298="0.0"/>
   <ChemicalElement id="CL" mass="35.453" reference_phase="BLANK" H298="0.0" S298="0.0"/>
   <ChemicalElement id="LI" mass="6.941" reference_phase="BLANK" H298="0.0" S298="0.0"/>
   <ChemicalElement id="NA" mass="22.98976928" reference_phase="BLANK" H298="0.0" S298="0.0"/>
